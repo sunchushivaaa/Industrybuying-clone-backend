@@ -263,12 +263,14 @@
     {
       "id": 1,
       "type": "cleaning",
+      "search": "vaccum_cleaners",
       "name": "Vaccum Cleaners",
       "image": "https://static3.industrybuying.com/homepage/1650366635Vaccum%20cleaner.png"
     },
     {
       "id": 2,
       "type": "cleaning",
+      "search": "pressure_washers",
       "name": "Pressure Washers",
       "image": "https://static3.industrybuying.com/homepage/1650366611Pressure%20washer.png"
     },
@@ -276,11 +278,13 @@
       "id": 3,
       "type": "cleaning",
       "name": "Dustbins",
+      "search": "dustbins",
       "image": "https://static3.industrybuying.com/homepage/1650366813Dustbins.png"
     },
     {
       "id": 4,
       "type": "cleaning",
+      "search": "air_purifiers",
       "name": "Air purifies filters and parts",
       "image": "https://static3.industrybuying.com/homepage/1650366836Air%20purifier.png"
     }
@@ -675,7 +679,7 @@
       "price": 1880
     }
   ],
-  "air_purifies": [
+  "air_purifiers": [
     {
       "id": 1,
       "type": "air_purifies",
@@ -808,24 +812,28 @@
     {
       "id": 1,
       "type": "instruments",
+      "search": "resistance_tester",
       "name": "Insulation Resistance Tester",
       "image": "https://static3.industrybuying.com/homepage/1647000067Insulation-Resistance-Tester-1.png"
     },
     {
       "id": 2,
       "type": "instruments",
+      "search": "clamp_meter",
       "name": "Digital Clamp Meter",
       "image": "https://static3.industrybuying.com/homepage/1647000070Digital-Clamp-Meter-5.png"
     },
     {
       "id": 3,
       "type": "instruments",
+      "search": "thermometer",
       "name": "Infrared Thermometer",
       "image": "https://static3.industrybuying.com/homepage/1647000067Infrared-Thermometer-2.png"
     },
     {
       "id": 4,
       "type": "instruments",
+      "search": "multimeters",
       "name": "Digital Multimeters",
       "image": "https://static3.industrybuying.com/homepage/1647000071Digital-Multimeters-6.png"
     }
@@ -1270,12 +1278,14 @@
     {
       "id": 1,
       "type": "power_tools",
+      "search": "saws",
       "name": "Saws",
       "image": "https://static3.industrybuying.com/homepage/1641414664PO.SA0.580128.jpg"
     },
     {
       "id": 2,
       "type": "power_tools",
+      "search": "miter_saw",
       "name": "Miter Saw",
       "image": "https://static3.industrybuying.com/homepage/1613549369PO.SA0.107550_1566980858466.jpg"
     },
@@ -1283,11 +1293,13 @@
       "id": 3,
       "type": "power_tools",
       "name": "Cordless Power Tools",
+      "search": "cordless_tools",
       "image": "https://static3.industrybuying.com/homepage/1613549414POW.COR.18810513.jpg"
     },
     {
       "id": 4,
       "type": "power_tools",
+      "search": "sander_polisher",
       "name": "Sander Polisher",
       "image": "https://static3.industrybuying.com/homepage/16135491734.jpg"
     }
