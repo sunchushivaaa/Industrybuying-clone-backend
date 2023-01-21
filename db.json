@@ -1,3 +1,1703 @@
 {
-  "products": []
+  "best_sellers": [
+    {
+      "id": 1,
+      "type": "best_sellers",
+      "name": "Voltas Floor Mounted Water Dispenser Minimagic Pure-F",
+      "brand": "VOLTAS",
+      "features": [
+        "Brand Name : VOLTAS",
+        "Model No : Minimagic Pure-F",
+        "Type : Floor Mounted Water Dispenser",
+        "Cooling Capacity (l/hrs) : 3 Ltrs / Hr",
+        "Cold Tank Capacity (L) : 3.2 Ltrs",
+        "Hot Tank Capacity (L) : 0.9 Ltrs"
+      ],
+      "image": "https://static1.industrybuying.com/products/furniture-hospitality-and-food-service/water-dispensers/FUR.WAT.14570895_1667958140407.webp",
+      "price": 7990
+    },
+    {
+      "id": 2,
+      "type": "best_sellers",
+      "name": "iBELL M200-105 IGBT Inverter 2 in 1 Flux Core/Solid Wire MAG Welding Machine with 1 Year Warranty",
+      "brand": "IBELL",
+      "features": [
+        "Brand Name : IBELL",
+        "Frequency : 50-60Hz",
+        "Input Current : 23.5 Amp",
+        "Size : 1.6-3.2 mm",
+        "Power : 4 kW",
+        "Model No : M200-105"
+      ],
+      "image": "https://static1.industrybuying.com/products/welding/welding-machine/arc-welding-machine/WEL.ARC.65308964_1668172023800.webp",
+      "price": 13880
+    },
+    {
+      "id": 3,
+      "type": "best_sellers",
+      "name": "Waaree 445W 24V Mono Perc Solar Panel",
+      "brand": "Waaree",
+      "features": [
+        "Brand Name : Waaree",
+        "Watt : 445W",
+        "Module Voltage : 24V",
+        "Open Circuit Voltage (VOC) : 49.84 V",
+        "No. of Cells : 144 Cells",
+        "Type of Product : Mono Perc Solar Panel"
+      ],
+      "image": "https://static1.industrybuying.com/products/solar/solar-panels/perc-solar-panel/SOL.SOL.84439435_1668119360416.webp",
+      "price": 19800
+    },
+    {
+      "id": 4,
+      "type": "best_sellers",
+      "name": "Texmo 0.5 HP DMS 02N Domestic Water Motor Pump",
+      "brand": "Texmo",
+      "features": [
+        "Brand Name : Texmo",
+        "Type of Product : Self Priming Monoblock Pump",
+        "Product Sub Type : Water Motor Pump",
+        "Suc x Del (mm) : 25 x 25 mm",
+        "Voltage : 220 V",
+        "Phase : Single Phase"
+      ],
+      "image": "https://static1.industrybuying.com/products/pumps/water-pumps/domestic-monoblock-pump/PUM.DOM.16523646_1667956625830.webp",
+      "price": 9690
+    },
+    {
+      "id": 5,
+      "type": "best_sellers",
+      "name": "Bosch Universal Aquatak 125 1500W Green High Pressure Washer, 0600 8A7 AF0",
+      "brand": "Bosch",
+      "features": [
+        "Brand Name : Bosch",
+        "Type of Product : Pressure Washer",
+        "Hose Length : 5 Metre",
+        "Power cable Length : 5 Metre",
+        "Net Weight : 6.8 kg",
+        "Motor Power : 1500 W"
+      ],
+      "image": "https://static1.industrybuying.com/products/cleaning/pressure-washer/CLE.HOM.61033166_1667972760820.webp",
+      "price": 9990
+    },
+    {
+      "id": 6,
+      "type": "best_sellers",
+      "name": "INGCO Metal 450W HVLPFloor Based Electric Paint Spray Gun SPG3508",
+      "brand": "Ingco",
+      "features": [
+        "Brand Name : Ingco",
+        "Type of Product : Spray Gun",
+        "Maximum Viscosity : 50DIN-s",
+        "Model No : SPG3508",
+        "Containers Capacity : 800 ml",
+        "Application : Metal Painting"
+      ],
+      "image": "https://static1.industrybuying.com/products/pneumatics/spray-gun-air-gun/spray-gun/PNE.SPR.62684915_1668029168422.webp",
+      "price": 1580
+    },
+    {
+      "id": 7,
+      "type": "best_sellers",
+      "name": "AgriPro 3 HP Combined Rice Mill Machine without Motor APCR6N409FC",
+      "brand": "AgriPro",
+      "features": [
+        "Brand Name : AgriPro",
+        "Machine Size : 1050 (L) x 340 (W) x 1050 (H) mm",
+        "Spindle Speed : Rice Mill: 1400-1600 RPM",
+        "Type of Product : Combined Rice Mill Machine",
+        "Production Capacity : Rice Mill: Rice ≥165-200 kg/hour, Disc Mill: Pulverizer ≥180-250 kg/hour",
+        "Certification : ISO9001:2015, CCC"
+      ],
+      "image": "https://static1.industrybuying.com/products/agriculture-garden-landscaping/grain-processing-machine/AGR.GRA.85702340_1668750002046.webp",
+      "price": 21900
+    },
+    {
+      "id": 8,
+      "type": "best_sellers",
+      "name": "Bullows TL-AT-ES-RT-1.4SS-FG Eco Smart Auto Gun (Ratchet Type)",
+      "brand": "Bullows",
+      "features": [
+        "Brand Name : Bullows",
+        "Type of Product : Eco Smart Auto Gun (Ratchet Type)",
+        "Model No : TL-AT-ES-RT-1.4SS-FG",
+        "Weight : 950 gm",
+        "Nozzle Size : 0.5,1.1,1.4,1.8,2.0, 2.5 mm",
+        "Material : MS & SS (304)"
+      ],
+      "image": "https://static1.industrybuying.com/products/pneumatics/spray-gun-air-gun/spray-gun/PNE.SPR.75865087_1668211826338.webp",
+      "price": 23335
+    }
+  ],
+  "new_arrivals": [
+    {
+      "id": 1,
+      "type": "new_arrivals",
+      "name": "Green Soul Jupiter Black High Back Mesh Efficient Chair",
+      "brand": "Green Soul",
+      "features": [
+        "Brand Name : Green Soul",
+        "Type of Product : Office Chair",
+        "Style : Solid High Back",
+        "Color : Black",
+        "Model No : Jupiter",
+        "Dimensions : 49x19.5x17 inch"
+      ],
+      "image": "https://static1.industrybuying.com/products/office-supplies/office-furniture/office-chairs/OFF.OFF.36048444_1668228102435.webp",
+      "price": 10800
+    },
+    {
+      "id": 2,
+      "type": "new_arrivals",
+      "name": "BOSCH GWS 600 professional Angle Grinder for Metal Working (with Brush Motor & Protective",
+      "brand": "Bosch",
+      "features": [
+        "Brand Name : Bosch",
+        "Type of Product : Angle Grinder",
+        "Style : Solid High Back",
+        "Color : Black",
+        "Model No : Jupiter",
+        "Dimensions : 49x19.5x17 inch"
+      ],
+      "image": "https://static1.industrybuying.com/products/power-tools/angle-grinders/PO.AN.731400_1667895577501.webp",
+      "price": 2800
+    },
+    {
+      "id": 3,
+      "type": "new_arrivals",
+      "name": "BOSCH GWS 600 professional Angle Grinder for Metal Working (with Brush Motor & Protective",
+      "brand": "Bosch",
+      "features": [
+        "Brand Name : Bosch",
+        "Type of Product : Angle Grinder",
+        "Frequency : 50-60 Hz",
+        "Weight : 1.8 kg",
+        "Switch Type : Toggle",
+        "Color : Blue & Black"
+      ],
+      "image": "https://static1.industrybuying.com/products/power-tools/angle-grinders/PO.AN.731400_1667895577501.webp",
+      "price": 2880
+    },
+    {
+      "id": 4,
+      "type": "new_arrivals",
+      "name": "LG XBOOM OK55 Party Speaker (Black)",
+      "brand": "LG",
+      "features": [
+        "Brand Name : LG",
+        "Speaker Type : Tower",
+        "Type of Product : Party Speaker",
+        "Color : Black",
+        "Weight : 14 kg 800 g",
+        "Power (RMS) : 500 W"
+      ],
+      "image": "https://static1.industrybuying.com/products/office-supplies/computers-accessories/office-speaker/OFF.OFF.26966666_1668356707211.webp",
+      "price": 27800
+    },
+    {
+      "id": 5,
+      "type": "new_arrivals",
+      "name": "Orbit TH-312 3000W White Meat Grinder",
+      "brand": "Orbit",
+      "features": [
+        "Brand Name : Orbit",
+        "Model No : TH-312",
+        "Type of Product : Grinder",
+        "Frequency : 50-60 Hz",
+        "Weight : 4kg",
+        "Power (RMS) : 3000 W"
+      ],
+      "image": "https://static1.industrybuying.com/products/furniture-hospitality-and-food-service/commercial-kitchen/meat-grinder/FUR.MEA.26228143_1668253925994.webp",
+      "price": 3990
+    },
+    {
+      "id": 6,
+      "type": "new_arrivals",
+      "name": "Syska UFO-E Series LED Hi Bay Light SSK-UFO-E-E-100W",
+      "brand": "Syska",
+      "features": [
+        "Brand Name : Syska",
+        "Color Temperature : 3000 - 6500 K",
+        "Power Factor : >0.9",
+        "Frequency : 50Hz",
+        "Beam Angle : >120 deg",
+        "Operating Temperature : -20 °C to +50 °C"
+      ],
+      "image": "https://static1.industrybuying.com/products/led-lights/led-bay-lights/LED.LED.65859772_1668661264099.webp",
+      "price": 6990
+    },
+    {
+      "id": 7,
+      "type": "new_arrivals",
+      "name": "Kortex R5 High Pressure Washer Machine Motive Power 1800W & Pressure 130 Bar",
+      "brand": "KORTEX",
+      "features": [
+        "Brand Name : KORTEX",
+        "Type of Product : Pressure Washer",
+        "Color : Black/Red",
+        "Voltage : 230V",
+        "Frequency : 50 Hz",
+        "Model No : R5"
+      ],
+      "image": "https://static1.industrybuying.com/products/cleaning/pressure-washer/CLE.PRE.67383137_1668850549303.webp",
+      "price": 6880
+    },
+    {
+      "id": 8,
+      "type": "new_arrivals",
+      "name": "SanDisk 1TB Extreme Portable SSD- 1050MB/s,PC,MAC & TypeC Smartphone Compatible",
+      "brand": "SanDisk",
+      "features": [
+        "Brand Name : SanDisk",
+        "Type of Product : Hard Drive",
+        "Color : Black",
+        "Capacity : 1 TB",
+        "Dimensions : 10 x 53 x 101 mm",
+        "Weight : 52 gm"
+      ],
+      "image": "https://static1.industrybuying.com/products/it-electronics/storage-devices/hard-disks/ITE.HAR.85928655_1668666860652.webp",
+      "price": 9990
+    }
+  ],
+  "cleaning": [
+    {
+      "id": 1,
+      "type": "cleaning",
+      "name": "Vaccum Cleaners",
+      "image": "https://static3.industrybuying.com/homepage/1650366635Vaccum%20cleaner.png"
+    },
+    {
+      "id": 2,
+      "type": "cleaning",
+      "name": "Pressure Washers",
+      "image": "https://static3.industrybuying.com/homepage/1650366611Pressure%20washer.png"
+    },
+    {
+      "id": 3,
+      "type": "cleaning",
+      "name": "Dustbins",
+      "image": "https://static3.industrybuying.com/homepage/1650366813Dustbins.png"
+    },
+    {
+      "id": 4,
+      "type": "cleaning",
+      "name": "Air purifies filters and parts",
+      "image": "https://static3.industrybuying.com/homepage/1650366836Air%20purifier.png"
+    }
+  ],
+  "pressure_washers": [
+    {
+      "id": 1,
+      "type": "pressure_washers",
+      "name": "POWERWASH Industrial Pressure Washer 3000W 18M17.5-3S4 with 6 Months Warranty",
+      "brand": "POWERWASH",
+      "features": [
+        "Brand Name : POWERWASH",
+        "Type of Product : Industrial Pressure Washer",
+        "Flow Rate : 14 l/min",
+        "Dimensions : 70 x 49 x 55 cm",
+        "Voltage : 220V",
+        "Frequency : 50 Hz"
+      ],
+      "image": "https://static1.industrybuying.com/products/cleaning/pressure-washer/CLE.PRE.22300356_1668015760990.webp",
+      "price": 37800
+    },
+    {
+      "id": 2,
+      "type": "pressure_washers",
+      "name": "Powerwash High Pressure Power Sprayer PW 280 with 6 Months Warranty",
+      "brand": "POWERWASH",
+      "features": [
+        "Brand Name : POWERWASH",
+        "Voltage : 220 Volts",
+        "Frequency : 50 Hz",
+        "Model No : PW 280",
+        "Power : 1600 Watt",
+        "Accessories : Short Spray Gun with Adjustable Spray Nozle 2 meter Cable 5 meter Outlet Hose Quick Connector 2 meter Inlet Hose + Filter"
+      ],
+      "image": "https://static1.industrybuying.com/products/cleaning/pressure-washer/CLE.PRE.22300356_1668015760990.webp",
+      "price": 7680
+    },
+    {
+      "id": 3,
+      "type": "pressure_washers",
+      "name": "Bosch Universal Aquatak 125 1500W Green High Pressure Washer, 0600 8A7 AF0",
+      "brand": "Bosch",
+      "features": [
+        "Brand Name : Bosch",
+        "Type of Product : Pressure Washer",
+        "Hose Length : 5 Metre",
+        "Power cable Length : 5 Metre",
+        "Net Weight : 6.8 kg",
+        "Motor Power : 1500 W"
+      ],
+      "image": "https://static1.industrybuying.com/products/cleaning/pressure-washer/CLE.HOM.61033166_1667972760820.webp",
+      "price": 9990
+    },
+    {
+      "id": 4,
+      "type": "pressure_washers",
+      "name": "Bosch Easy Aquatak 110 High Pressure Washer 1300 Watt",
+      "brand": "Bosch",
+      "features": [
+        "Brand Name : Bosch",
+        "Type of Product : High Pressure Washer",
+        "Hose Length : 3mtr",
+        "Flow Rate : 300 l/h",
+        "Color : Green",
+        "Motor Power : 1300 W"
+      ],
+      "image": "https://static1.industrybuying.com/products/cleaning/pressure-washer/CLE.PRE.31611802_1667994246687.webp",
+      "price": 8480
+    },
+    {
+      "id": 5,
+      "type": "pressure_washers",
+      "name": "TEXUM TX-WF Automatic Water Filter-Crystal white",
+      "brand": "TEXUM",
+      "features": [
+        "Brand Name : TEXUM",
+        "Type of Product : Water Filter",
+        "Color : Crystal White",
+        "Dimensions : 7 x 3 x 3 Centimeters",
+        "Weight : 14 g",
+        "Is Consumable : N"
+      ],
+      "image": "https://static1.industrybuying.com/products/cleaning/pressure-washer/CLE.PRE.37479882_1669895849759.webp",
+      "price": 188
+    },
+    {
+      "id": 6,
+      "type": "pressure_washers",
+      "name": "Kapicon 2000 W 150 Bar Singal Phase Car Pressure Washer KP-40",
+      "brand": "Kapicon",
+      "features": [
+        "Brand Name : Kapicon",
+        "Type of Product : Car Pressure Washer",
+        "Hose Length : 7 m",
+        "Color : Cyan Blue",
+        "Dimensions : 32 x 34 x 43 cm",
+        "Voltage : 230 V"
+      ],
+      "image": "https://static1.industrybuying.com/products/cleaning/pressure-washer/CLE.PRE.107508297_1672030703570.webp",
+      "price": 8480
+    },
+    {
+      "id": 7,
+      "type": "pressure_washers",
+      "name": "Black+Decker BW17-IN 1700W 130 Bar 420 L/hr Pressure Washer",
+      "brand": "Black+Decker",
+      "features": [
+        "Brand Name : Black+Decker",
+        "Type of Product : Pressure Washer",
+        "Color : Red & Black",
+        "Voltage : 220 - 240 volts",
+        "Model No : BW17-IN",
+        "Power : 1700W"
+      ],
+      "image": "https://static1.industrybuying.com/products/cleaning/pressure-washer/CLE.PRE.105310435_1668172158383.webp",
+      "price": 11800
+    },
+    {
+      "id": 8,
+      "type": "pressure_washers",
+      "name": "RalliWolf High Pressure Washer RHP100",
+      "brand": "RALLIWOLF",
+      "features": [
+        "Brand Name : RALLIWOLF",
+        "Type of Product : Pressure Washer",
+        "Hose Length : 5 m",
+        "Model No : RHP100",
+        "Weight : 6.4 kg",
+        "Cable Length : 5 m"
+      ],
+      "image": "https://static1.industrybuying.com/products/cleaning/pressure-washer/CLE.PRE.22991093_1668042310138.webp",
+      "price": 8490
+    }
+  ],
+  "vaccum_cleaners": [
+    {
+      "id": 1,
+      "type": "vaccum_cleaners",
+      "name": "AGARO Ace 1600 Watts, 21.5 kPa Suction Power, 21 litres Wet & Dry Stainless Steel Vacuum Cleaner with Blower Function and Washable Dust Bag",
+      "brand": "Agaro",
+      "features": [
+        "Brand Name : Agaro",
+        "Type of Product : Vacuum Cleaner",
+        "Color : Black",
+        "Voltage : 240V",
+        "Power : 1600W",
+        "Capacity : 21 Ltr"
+      ],
+      "image": "https://static1.industrybuying.com/products/cleaning/vacuum-cleaners-accessories/vacuum-cleaners/CLE.VAC.35982301_1673524861910.webp",
+      "price": 5990
+    },
+    {
+      "id": 2,
+      "type": "vaccum_cleaners",
+      "name": "Inalsa WD10 Ultra Wet and Dry Vacuum Cleaner 1000W",
+      "brand": "Inalsa",
+      "features": [
+        "Brand Name : Inalsa",
+        "Type of Product : Vacuum Cleaner",
+        "Color : Red",
+        "Voltage : 230V",
+        "Model No : UltraWD10Vc",
+        "Tank Capacity : 10 Ltr"
+      ],
+      "image": "https://static1.industrybuying.com/products/cleaning/vacuum-cleaners-accessories/vacuum-cleaners/CLE.VAC.35445823_1668182698132.webp",
+      "price": 4580
+    },
+    {
+      "id": 3,
+      "type": "vaccum_cleaners",
+      "name": "Black+Decker BSV2020G 20V Li-ion 40 AW Power Series Cordless Stick Vacuum Cleaner with Floorhead LED",
+      "brand": "Black+Decker",
+      "features": [
+        "Brand Name : Black+Decker",
+        "Type of Product : Stick Vacuum Cleaner",
+        "Voltage : 20V",
+        "Suction Power : 40 AW",
+        "Model No : BSV2020G-B1",
+        "Weight : 168 g"
+      ],
+      "image": "https://static1.industrybuying.com/products/cleaning/vacuum-cleaners-accessories/vacuum-cleaners/CLE.VAC.35310713_1668172215712.webp",
+      "price": 10800
+    },
+    {
+      "id": 4,
+      "type": "vaccum_cleaners",
+      "name": "Black+Decker VM2825 2000-Watt 21 Kpa High Suction 1.8L dustbowl Bagless Cyclonic Vacuum",
+      "brand": "Black+Decker",
+      "features": [
+        "Brand Name : Black+Decker",
+        "Type of Product : Cyclonic Multi stage Vacuum Cleaner",
+        "Color : Blue",
+        "Voltage : 220-240V",
+        "Filtering Surface : 6 Stage",
+        "Frequency : 50-60 Hz"
+      ],
+      "image": "https://static1.industrybuying.com/products/cleaning/vacuum-cleaners-accessories/vacuum-cleaners/PO.DU.515553_1667881877720.webp",
+      "price": 10800
+    },
+    {
+      "id": 5,
+      "type": "vaccum_cleaners",
+      "name": "Black+Decker Black Vacuum Cleaner VM1480-B5 ( 1480 W)",
+      "brand": "Black+Decker",
+      "features": [
+        "Brand Name : Black+Decker",
+        "Type of Product :  Vacuum Cleaner",
+        "Color : Black",
+        "Model No : VM1480-B5",
+        "Weight : 4Kg",
+        "Capacity : 2L"
+      ],
+      "image": "https://static1.industrybuying.com/products/cleaning/vacuum-cleaners-accessories/vacuum-cleaners/CLE.VAC.92884064_1668036188624.webp",
+      "price": 6380
+    },
+    {
+      "id": 6,
+      "type": "vaccum_cleaners",
+      "name": "Bosch GAS 15 1100 W Vaccum Cleaner",
+      "brand": "Bosch",
+      "features": [
+        "Brand Name : Bosch",
+        "Type of Product :  Vacuum Cleaner",
+        "Container Capacity (l) : 15 L",
+        "Color : Blue",
+        "Weight : 6 Kg Without Cable",
+        "Air Flow : 53 l/s"
+      ],
+      "image": "https://static1.industrybuying.com/products/cleaning/vacuum-cleaners-accessories/vacuum-cleaners/CLE.VAC.92884064_1668036188624.webp",
+      "price": 14800
+    },
+    {
+      "id": 7,
+      "type": "vaccum_cleaners",
+      "name": "POWERWASH 20 Ltr Vacuum Cleaner Yellow PW-VC-020 with 6 Months Warranty",
+      "brand": "POWERWASH",
+      "features": [
+        "Brand Name : POWERWASH",
+        "Type of Product :  Vacuum Cleaner",
+        "Color : Yellow",
+        "Voltage : 220V",
+        "Cable Length : 3.5 m",
+        "Frequency : 50 Hz"
+      ],
+      "image": "https://static1.industrybuying.com/products/cleaning/vacuum-cleaners-accessories/vacuum-cleaners/CLE.VAC.31517385_1667990266850.webp",
+      "price": 5980
+    },
+    {
+      "id": 8,
+      "type": "vaccum_cleaners",
+      "name": "Deerma 120W Battery Operated White Mite Cleaner UV Lamp 2 in 1 DEM-CM1900",
+      "brand": "Deerma",
+      "features": [
+        "Brand Name : Deerma",
+        "Type of Product : Mite Cleaner UV Lamp 2 in 1",
+        "Color : White",
+        "Features : HEPA, Compact, Lightweight",
+        "Model No : DEM-CM1900",
+        "Power : 120W"
+      ],
+      "image": "https://static1.industrybuying.com/products/cleaning/vacuum-cleaners-accessories/vacuum-cleaners/CLE.VAC.107802525_1673672142395.webp",
+      "price": 6990
+    }
+  ],
+  "dustbins": [
+    {
+      "id": 1,
+      "type": "dustbins",
+      "name": "Plumeria Metal Triune Wastebasket And Boutique Tissue 1 Set TR89H",
+      "brand": "Plumeria",
+      "features": [
+        "Brand Name : Plumeria",
+        "Type of Product : Waste Basket",
+        "Material : Metal",
+        "Model No : TR89H",
+        "Package Included : Waste Basket And 7.5QT Boutique Tissue",
+        "Series : Triune"
+      ],
+      "image": "https://static1.industrybuying.com/products/cleaning/waste-recycling/dustbins-and-waste-bins/CLE.IND.101042170_1667972796006.webp",
+      "price": 2280
+    },
+    {
+      "id": 2,
+      "type": "dustbins",
+      "name": "Mofna Stainless Steel Sliver Swing Dustbin 14x28 Inch MSS509 (70 Ltr)",
+      "brand": "MOFNA",
+      "features": [
+        "Brand Name : MOFNA",
+        "Type of Product : Dustbin",
+        "Material : Stainless Steel",
+        "Color : Sliver",
+        "Shape : Round",
+        "Size : 14x28 Inch"
+      ],
+      "image": "https://static1.industrybuying.com/products/cleaning/waste-recycling/dustbins-and-waste-bins/CLE.DUS.97485792_1669901449072.webp",
+      "price": 2280
+    },
+    {
+      "id": 3,
+      "type": "dustbins",
+      "name": "Aristo Wheel Waste Bin 120Ltr With Pedal Red",
+      "brand": "ARISTO",
+      "features": [
+        "Brand Name : ARISTO",
+        "Type of Product : industrial waste bin",
+        "Height : 1075 mm",
+        "Color : Red",
+        "Capacity (L) : 120",
+        "Model No : Wheeled Waste Bin With Pedal 120"
+      ],
+      "image": "https://static1.industrybuying.com/products/cleaning/waste-recycling/dustbins-and-waste-bins/CLE.IND.12522142_1667956565176.webp",
+      "price": 3880
+    },
+    {
+      "id": 4,
+      "type": "dustbins",
+      "name": "Mofna Stainless Steel Sliver Perforated Dustbin 14x28 Inch MSS111",
+      "brand": "MOFNA",
+      "features": [
+        "Brand Name : MOFNA",
+        "Type of Product : Dustbin",
+        "Material : Stainless Steel",
+        "Color : Sliver",
+        "Shape : Round",
+        "Size : 14x28 Inch"
+      ],
+      "image": "https://static1.industrybuying.com/products/cleaning/waste-recycling/dustbins-and-waste-bins/CLE.DUS.57472145_1669809195977.webp",
+      "price": 1790
+    },
+    {
+      "id": 5,
+      "type": "dustbins",
+      "name": "Mofna Stainless Steel Sliver Swing Dustbin 12x28 Inch MSS714",
+      "brand": "MOFNA",
+      "features": [
+        "Brand Name : MOFNA",
+        "Type of Product : Dustbin",
+        "Material : Stainless Steel",
+        "Color : Sliver",
+        "Shape : Round",
+        "Size : 12x28 Inch"
+      ],
+      "image": "https://static1.industrybuying.com/products/cleaning/waste-recycling/dustbins-and-waste-bins/CLE.DUS.67486185_1669901257619.webp",
+      "price": 3990
+    },
+    {
+      "id": 6,
+      "type": "dustbins",
+      "name": "Mofna Stainless Steel Grey Pedal Dustbin 14x24 Inch MSSBR605",
+      "brand": "MOFNA",
+      "features": [
+        "Brand Name : MOFNA",
+        "Type of Product : Dustbin",
+        "Material : Stainless Steel",
+        "Color : Grey",
+        "Shape : Round",
+        "Size : 14x24 Inch"
+      ],
+      "image": "https://static1.industrybuying.com/products/cleaning/waste-recycling/dustbins-and-waste-bins/CLE.DUS.97486043_1669901457681.webp",
+      "price": 2590
+    },
+    {
+      "id": 7,
+      "type": "dustbins",
+      "name": "Mofna Stainless Steel Sliver Push Can Dustbin 10x18 Inch MSS403",
+      "brand": "MOFNA",
+      "features": [
+        "Brand Name : MOFNA",
+        "Type of Product : Dustbin",
+        "Material : Stainless Steel",
+        "Color : Silver",
+        "Shape : Round",
+        "Size : 10x18 Inch"
+      ],
+      "image": "https://static1.industrybuying.com/products/cleaning/waste-recycling/dustbins-and-waste-bins/CLE.DUS.37485658_1669901321499.webp",
+      "price": 893
+    },
+    {
+      "id": 8,
+      "type": "dustbins",
+      "name": "Fiable 50L Black Dustbin Center Foot Pedal with Lid FDB 50 CP",
+      "brand": "Fiable",
+      "features": [
+        "Brand Name : Fiable",
+        "Type of Product : Dustbin",
+        "Product Sub Type : Center Foot Pedal with Lid",
+        "Color : Black",
+        "Capacity (L) : 50L",
+        "Model No : FDB 50 CP"
+      ],
+      "image": "https://static1.industrybuying.com/products/cleaning/waste-recycling/dustbins-and-waste-bins/CLE.DUS.45038866_1668152374651.webp",
+      "price": 1880
+    }
+  ],
+  "air_purifies": [
+    {
+      "id": 1,
+      "type": "air_purifies",
+      "name": "Airpuro Air Purifier for Home and Office EPI236 (HEPA)",
+      "brand": "Airpuro",
+      "features": [
+        "Brand Name : Airpuro",
+        "Type of Product : Air Purifier",
+        "Product Sub Type : Home and Office",
+        "Is Consumable : N",
+        "Working Voltage : AC 120V/230V"
+      ],
+      "image": "https://static1.industrybuying.com/products/cleaning/air-purifier-filters-parts/CLE.AIR.72103744_1668010963029.webp",
+      "price": 2690
+    },
+    {
+      "id": 2,
+      "type": "air_purifies",
+      "name": "Sharp FP-GM50E-B Air Purifier with Mosquito Catcher",
+      "brand": "Sharp",
+      "features": [
+        "Brand Name : Sharp",
+        "Is Consumable : N",
+        "Type of Product : Air Purifier with Mosquito Catcher",
+        "Filter : Standard Mesh",
+        "Noise Level (dB) : 53 / 41 / 23 (Max / Med / Low)",
+        "Power Consumption (W) : 51 / 17 / 4 (Max / Med / Low)"
+      ],
+      "image": "https://static1.industrybuying.com/products/cleaning/air-purifier-filters-parts/CLE.AIR.96060216_1668230226186.webp",
+      "price": 18900
+    },
+    {
+      "id": 3,
+      "type": "air_purifies",
+      "name": "TruSens Z-2000 Air Purifiers Upto 375 Sqft with Air Quality Monitor Medium 2415101EU",
+      "brand": "TruSens",
+      "features": [
+        "Brand Name : TruSens",
+        "Is Consumable : N",
+        "AQI Indicator : Numeric & Colour Display",
+        "Dimmer Mode : Yes",
+        "Timer Settings : 2/4/8/12 hours",
+        "Purification Levels : Washable Prefilter, Carbon Filter, HEPA Type Filter, UV"
+      ],
+      "image": "https://static1.industrybuying.com/products/cleaning/air-purifier-filters-parts/CLE.AIR.45309055_1668172043324.webp",
+      "price": 21800
+    },
+    {
+      "id": 4,
+      "type": "air_purifies",
+      "name": "Sharp FP-J60M-W Air Purifier",
+      "brand": "Sharp",
+      "features": [
+        "Brand Name : Sharp",
+        "Is Consumable : N",
+        "Product Type : Air Purifier",
+        "Filter : Washable Fine-Meshed PM10 filter",
+        "Noise Level (dB) : 43 / 40 / 15(Max / Med / Low)",
+        "Power Consumption (W) : 38 / 20 / 1.2"
+      ],
+      "image": "https://static1.industrybuying.com/products/cleaning/air-purifier-filters-parts/CLE.AIR.106060160_1668230210017.webp",
+      "price": 29800
+    },
+    {
+      "id": 5,
+      "type": "air_purifies",
+      "name": "Sharp FP-J80M-H Air Purifier",
+      "brand": "Sharp",
+      "features": [
+        "Brand Name : Sharp",
+        "Is Consumable : N",
+        "Product Type : Air Purifier",
+        "Filter : Washable Fine-Meshed PM10 filter",
+        "Noise Level (dB) : 47 / 45 / 15(Max / Med / Low)",
+        "Power Consumption (W) : 48 / 28 / 1.3"
+      ],
+      "image": "https://static1.industrybuying.com/products/cleaning/air-purifier-filters-parts/CLE.AIR.56060178_1668230214077.webp",
+      "price": 29900
+    },
+    {
+      "id": 6,
+      "type": "air_purifies",
+      "name": "Sharp FP-F40E-T Air Purifier Dual Purification ACTIVE Plasmacluster Technology,PASSIVE FILTER(True HEPA+Carbon+Pre-Filter)",
+      "brand": "Sharp",
+      "features": [
+        "Brand Name : Sharp",
+        "Is Consumable : N",
+        "Product Type : Air Purifier",
+        "Filter : Standard Mesh",
+        "Noise Level (dB) : 53 / 41 / 23 (Max / Med / Low)",
+        "Power Consumption (W) : 31 / 12 / 6 (Max / Med / Low)"
+      ],
+      "image": "https://static1.industrybuying.com/products/cleaning/air-purifier-filters-parts/CLE.AIR.56060178_1668230214077.webp",
+      "price": 12800
+    },
+    {
+      "id": 7,
+      "type": "air_purifies",
+      "name": "Dr. Aeroguard 3 Grades of Wind Speed HPA 500",
+      "brand": "Eureka Forbes",
+      "features": [
+        "Brand Name : Eureka Forbes",
+        "Is Consumable : N",
+        "Product Type : Air Purifier",
+        "Control Panel : Touch Panel",
+        "Wind Speed : 3 Grades of Wind Speed",
+        "Power Consumption (W) : 80W"
+      ],
+      "image": "https://static1.industrybuying.com/products/cleaning/air-purifier-filters-parts/CLE.AIR.72869570_1668035327790.webp",
+      "price": 19900
+    },
+    {
+      "id": 8,
+      "type": "air_purifies",
+      "name": "Daikin HEPA Air Purifier MC76VVM6",
+      "brand": "Daikin",
+      "features": [
+        "Brand Name : Daikin",
+        "Is Consumable : N",
+        "Product Type : Air Purifier",
+        "Power Source : Corded Electric",
+        "Weight : 5.6kg",
+        "Coverage Area : 538 Sq. Feet"
+      ],
+      "image": "https://static1.industrybuying.com/products/cleaning/air-purifier-filters-parts/CLE.AIR.25497815_1668186560510.webp",
+      "price": 16800
+    }
+  ],
+  "instruments": [
+    {
+      "id": 1,
+      "type": "instruments",
+      "name": "Insulation Resistance Tester",
+      "image": "https://static3.industrybuying.com/homepage/1647000067Insulation-Resistance-Tester-1.png"
+    },
+    {
+      "id": 2,
+      "type": "instruments",
+      "name": "Digital Clamp Meter",
+      "image": "https://static3.industrybuying.com/homepage/1647000070Digital-Clamp-Meter-5.png"
+    },
+    {
+      "id": 3,
+      "type": "instruments",
+      "name": "Infrared Thermometer",
+      "image": "https://static3.industrybuying.com/homepage/1647000067Infrared-Thermometer-2.png"
+    },
+    {
+      "id": 4,
+      "type": "instruments",
+      "name": "Digital Multimeters",
+      "image": "https://static3.industrybuying.com/homepage/1647000071Digital-Multimeters-6.png"
+    }
+  ],
+  "resistance_tester": [
+    {
+      "id": 1,
+      "type": "resistance_tester",
+      "name": "Rishabh Instruments Its 10020 1000V Handdriven Analog Insulation Tester",
+      "brand": "Rishabh Instruments",
+      "features": [
+        "Brand Name : Rishabh Instruments",
+        "Type of Product : Handdriven Analog Insulation Tester",
+        "Model No : ITS 10020",
+        "Repair Warranty Duration : 12 Months",
+        "Voltage : 1000V",
+        "Is Consumable : N"
+      ],
+      "image": "https://static1.industrybuying.com/products/testing-and-measuring-instruments/electrical-power-testing/insulation-testers/insulation-resistance-tester/TES.INS.74230986_1668109385578.webp",
+      "price": 1990
+    },
+    {
+      "id": 2,
+      "type": "resistance_tester",
+      "name": "Rishabh Instruments Rish Insu 20 Digital Insulation Tester",
+      "brand": "Rishabh Instruments",
+      "features": [
+        "Brand Name : Rishabh Instruments",
+        "Type of Product : Digital Insulation tester",
+        "Model No : Rish Insu 20",
+        "Repair Warranty Duration : 12 Months",
+        "Is Consumable : N"
+      ],
+      "image": "https://static1.industrybuying.com/products/testing-and-measuring-instruments/electrical-power-testing/insulation-testers/insulation-resistance-tester/TES.INS.84230942_1668109382574.webp",
+      "price": 5990
+    },
+    {
+      "id": 3,
+      "type": "resistance_tester",
+      "name": "Rishabh Instruments Iti 10020 1000V Handdriven Analog Insulation Tester",
+      "brand": "Rishabh Instruments",
+      "features": [
+        "Brand Name : Rishabh Instruments",
+        "Type of Product : Handdriven Analog Insulation Tester",
+        "Model No : ITI 10020",
+        "Repair Warranty Duration : 12 Months",
+        "Voltage : 1000V",
+        "Is Consumable : N"
+      ],
+      "image": "https://static1.industrybuying.com/products/testing-and-measuring-instruments/electrical-power-testing/insulation-testers/insulation-resistance-tester/TES.INS.104231001_1668109386678.webp",
+      "price": 2265
+    },
+    {
+      "id": 4,
+      "type": "resistance_tester",
+      "name": "Kyoritsu High Voltage Insulation Tester 250-5000V KEW-3125A",
+      "brand": "Kyoritsu",
+      "features": [
+        "Brand Name : Kyoritsu",
+        "Type of Product : High Voltage Insulation Tester",
+        "Model No : KEW-3125A",
+        "Short Circuit Current : 1.5mA",
+        "Weight : 1.9 Kg (Approx)",
+        "Power Source : DC12V: LR14/R14 x 8pcs"
+      ],
+      "image": "https://static1.industrybuying.com/products/testing-and-measuring-instruments/electrical-power-testing/insulation-testers/insulation-resistance-tester/TES.INS.82077953_1668009953773.webp",
+      "price": 108000
+    },
+    {
+      "id": 5,
+      "type": "resistance_tester",
+      "name": "Mextech DIT-5100 Digital Insulation Tester (Range 0.1 to 200 G Ohm)",
+      "brand": "Mextech",
+      "features": [
+        "Brand Name : Mextech",
+        "Type of Product : Digital Insulation Tester",
+        "Product Sub Type : High Voltage type",
+        "Insulation Resistance Test Range : 0.1 to 200 GΩ",
+        "Insulation Resistance Resolution : 0.01 MΩ",
+        "Insulation Resistance Accuracy : ±(3%+5) - ±(5%+10)"
+      ],
+      "image": "https://static1.industrybuying.com/products/testing-and-measuring-instruments/electrical-power-testing/insulation-testers/insulation-resistance-tester/TE.IN.431565_1667870605331.webp",
+      "price": 8980
+    },
+    {
+      "id": 6,
+      "type": "resistance_tester",
+      "name": "Sigma Digital Megger Insulation Tester (Range 0.1M to 40G Ohm) 1000V",
+      "brand": "SIGMA",
+      "features": [
+        "Brand Name : SIGMA",
+        "Type of Product : Digital Meggar Insulation Tester",
+        "Insulation Resistance Test Range : 0.1 MΩ - 40 GΩ",
+        "Insulation Resistance Accuracy : ± 3.0%+5 - ± 10%+5",
+        "Insulation Test Voltage : 250 V/ 500 V/1000 V (DC)",
+        "Short Circuit Current : 1.5 mA"
+      ],
+      "image": "https://static1.industrybuying.com/products/testing-and-measuring-instruments/electrical-power-testing/insulation-testers/insulation-resistance-tester/TE.IN.218600_1667842386290.webp",
+      "price": 3890
+    },
+    {
+      "id": 7,
+      "type": "resistance_tester",
+      "name": "Fulcrum 250-1000V Insulation Resistance Tester FC60B+",
+      "brand": "Fulcrum",
+      "features": [
+        "Brand Name : Fulcrum",
+        "Type of Product : Insulation Resistance Tester",
+        "Relative Humidity : 30% RH - 85% RH",
+        "Short Circuit Current : <1.8mA",
+        "Weight : 720 g",
+        "Model No : FC60B+"
+      ],
+      "image": "https://static1.industrybuying.com/products/testing-and-measuring-instruments/electrical-power-testing/insulation-testers/insulation-resistance-tester/TES.INS.61612536_1669893801648.webp",
+      "price": 3980
+    },
+    {
+      "id": 8,
+      "type": "resistance_tester",
+      "name": "Rishabh Instruments Rish Insu 10 Digital Insulation Tester",
+      "brand": "Rishabh Instruments",
+      "features": [
+        "Brand Name : Rishabh Instruments",
+        "Type of Product : Digital Insulation tester",
+        "Model No : Rish Insu 10",
+        "Short Circuit Current : <1.8mA",
+        "Repair Warranty Duration : 12 Months",
+        "Is Consumable : N"
+      ],
+      "image": "https://static1.industrybuying.com/products/testing-and-measuring-instruments/electrical-power-testing/insulation-testers/insulation-resistance-tester/TES.INS.44230932_1668109381975.webp",
+      "price": 5280
+    }
+  ],
+  "clamp_meter": [
+    {
+      "id": 1,
+      "type": "clamp_meter",
+      "name": "Habotest 6V-600V Mini Dual Type Digital Clamp Meter HT206A",
+      "brand": "Habotest",
+      "features": [
+        "Brand Name : Habotest",
+        "Type of Product : Digital Clamp Meter",
+        "Voltage Accuracy (DC) : ±(0.5%+3)",
+        "Voltage Accuracy (AC) : ±(1.0%+5)",
+        "Resistance Accuracy : ±(1.0%+3)",
+        "Temperature Range : -40°C~1000°C"
+      ],
+      "image": "https://static1.industrybuying.com/products/testing-and-measuring-instruments/electrical-power-testing/clamp-meters/digital-clamp-meter/TES.DIG.34144443_1668102582083.webp",
+      "price": 1480
+    },
+    {
+      "id": 2,
+      "type": "clamp_meter",
+      "name": "MEXTECH 3½ Digits LCD Display Clamp Meter M266",
+      "brand": "Mextech",
+      "features": [
+        "Brand Name : Mextech",
+        "Type of Product : Digital Clamp Meter",
+        "Display : 3½ Digits LCD Display",
+        "Display Counts : 1999 Counts",
+        "Jaw Opening Size : 51 mm",
+        "Voltage Range (DC) : 0-1000 V"
+      ],
+      "image": "https://static1.industrybuying.com/products/testing-and-measuring-instruments/electrical-power-testing/clamp-meters/digital-clamp-meter/TES.DIG.23057923_1668046398050.webp",
+      "price": 1990
+    },
+    {
+      "id": 3,
+      "type": "clamp_meter",
+      "name": "Meco 2250Hz-Auto Digital AC Clamp Meter 1000 A 750 V",
+      "brand": "Meco",
+      "features": [
+        "Brand Name : Meco",
+        "Type of Product : Digital AC Clamp Meter",
+        "Display : 3½ Digits LCD Display",
+        "Display Counts : 4000 Counts",
+        "Jaw Opening Size : 55 mm",
+        "Voltage Range (DC) : 0-1000 V"
+      ],
+      "image": "https://static1.industrybuying.com/products/testing-and-measuring-instruments/electrical-power-testing/clamp-meters/digital-clamp-meter/ME.EL.DI6.242423_1667842957657.webp",
+      "price": 3180
+    },
+    {
+      "id": 4,
+      "type": "clamp_meter",
+      "name": "Crown Digit Digital Ac/Dc Clamp Meter 3999 Counts CM 2056",
+      "brand": "Crown",
+      "features": [
+        "Brand Name : Crown",
+        "Type of Product : Digit Digital Ac/Dc Clamp Meter",
+        "Features : AC/DC Voltage, Resistance, Capacitance, Frequency, Temperature, Duty Cycle, Diode & Continuity Test",
+        "Display Counts : 3999  Counts",
+        "Model No : CM 2056",
+        "Current (AC/DC) : 1000A"
+      ],
+      "image": "https://static1.industrybuying.com/products/testing-and-measuring-instruments/electrical-power-testing/clamp-meters/digital-clamp-meter/TES.DIG.103192287_1668055212661.webp",
+      "price": 5290
+    },
+    {
+      "id": 5,
+      "type": "clamp_meter",
+      "name": "Pro'sKit MT-3112 3 5/6 Smart True-RMS Flex Clamp Meter",
+      "brand": "Pros Kit",
+      "features": [
+        "Brand Name : Pros Kit",
+        "Type of Product : Smart True-RMS Flex Clamp Meter",
+        "Model No : MT-3112",
+        "Size : 324 x 178 x 30",
+        "Key Features : 3 5/6 digits 5999 counts, 0.5% best accuracy Auto selection of ACA,ACV,DCV,Resistance and Frequency Auto range for accurate measurement Super large frequency range: bandwidth:40-2000Hz",
+        "Is Consumable : N"
+      ],
+      "image": "https://static1.industrybuying.com/products/testing-and-measuring-instruments/electrical-power-testing/clamp-meters/digital-clamp-meter/TES.DIG.63994940_1668094236089.webp",
+      "price": 21800
+    },
+    {
+      "id": 6,
+      "type": "clamp_meter",
+      "name": "Kyoritsu 150-600V AC Analogue Clamp Meter KEW-2608A",
+      "brand": "Kyoritsu",
+      "features": [
+        "Brand Name : Kyoritsu",
+        "Type of Product : AC Analogue Clamp Meter",
+        "Voltage Range (DC) : 60V",
+        "Voltage Accuracy (DC) : ±3% of FS",
+        "Current Range (AC) : 6/15/60/150/300A",
+        "Current Accuracy (AC) : ±3% of FS"
+      ],
+      "image": "https://static1.industrybuying.com/products/testing-and-measuring-instruments/electrical-power-testing/clamp-meters/digital-clamp-meter/TES.DIG.22077773_1668009946614.webp",
+      "price": 13800
+    },
+    {
+      "id": 7,
+      "type": "clamp_meter",
+      "name": "Waco 2782A Digital Clamp Meter 40MΩ",
+      "brand": "Waco",
+      "features": [
+        "Brand Name : Waco",
+        "Type of Product : Digital Clamp Meter",
+        "Voltage Range (DC) : 1000V",
+        "Voltage Range (AC) : 750V",
+        "Model No : 2782A",
+        "Capacitance : 100uF"
+      ],
+      "image": "https://static1.industrybuying.com/products/testing-and-measuring-instruments/electrical-power-testing/clamp-meters/digital-clamp-meter/TES.DIG.94855228_1668142008474.webp",
+      "price": 4680
+    },
+    {
+      "id": 8,
+      "type": "clamp_meter",
+      "name": "Kusam Meco 2000 A AC True RMS Digital Clamp Meter With Non-Contact EF-Detection - KM 2772",
+      "brand": "Kusam Meco",
+      "features": [
+        "Brand Name : Kusam Meco",
+        "Type of Product : Clamp Meter",
+        "Sensing : True RMS sensing",
+        "Display : 3-5/6 digits 6000 counts",
+        "Jaw Opening Size : 45mm max.",
+        "Relative Humidity : Max. R.H. 80% for temperature upto 31 °C"
+      ],
+      "image": "https://static1.industrybuying.com/products/testing-and-measuring-instruments/electrical-power-testing/clamp-meters/digital-clamp-meter/TES.DIG.27063305_1665144717594.jpg",
+      "price": 11800
+    }
+  ],
+  "thermometer": [
+    {
+      "id": 1,
+      "type": "thermometer",
+      "name": "Pro'sKit MT-4606 Infrared Thermometer",
+      "brand": "Pros Kit",
+      "features": [
+        "Brand Name : Pros Kit",
+        "Type of Product : Infrared Thermometer",
+        "Model No : MT-4606",
+        "Is Consumable : N"
+      ],
+      "image": "https://static1.industrybuying.com/products/testing-and-measuring-instruments/temperature-humidity-measuring/infrared-thermometer/TES.INF.43994901_1668094233013.webp",
+      "price": 3580
+    },
+    {
+      "id": 2,
+      "type": "thermometer",
+      "name": "Real Instruments IR Infrared Gun Thermometer Laser Point GM550 Instant Read Thermocouple Laser IR-550",
+      "brand": "Real Instruments",
+      "features": [
+        "Brand Name : Real Instruments",
+        "Type of Product : Infrared Thermometer",
+        "Model No : IR-550",
+        "Weight : 0.17 Kg",
+        "Dimensions : 170 x 81 x 38 mm",
+        "Color : Black&Yellow"
+      ],
+      "image": "https://static1.industrybuying.com/products/testing-and-measuring-instruments/temperature-humidity-measuring/infrared-thermometer/TES.INF.66280404_1668261470116.webp",
+      "price": 1780
+    },
+    {
+      "id": 3,
+      "type": "thermometer",
+      "name": "Klein Tools 1 x 9V Dual Laser Infrared Thermometer IR5",
+      "brand": "Klein Tools",
+      "features": [
+        "Brand Name : Klein Tools",
+        "Type of Product : Laser Infrared Thermometer",
+        "Display : Digital Backlit",
+        "Special Features : Several Calculation Modes to Facilitate Different Temperature Measurement Applications",
+        "Part No : IR5",
+        "Application : Accurate Targeting and Temperature Measurement"
+      ],
+      "image": "https://static1.industrybuying.com/products/testing-and-measuring-instruments/temperature-humidity-measuring/infrared-thermometer/TES.INF.33407400_1668065592048.webp",
+      "price": 13800
+    },
+    {
+      "id": 4,
+      "type": "thermometer",
+      "name": "G-Tech MT-5 -50˚C to 750˚C INFRARED THERMOMETER",
+      "brand": "G-Tech",
+      "features": [
+        "Brand Name : G-Tech",
+        "Type of Product : Infrared Thermometer",
+        "Response Time : 0.5 Seconds",
+        "Model No : MT-5",
+        "Temperature Range : -50˚C to 750˚C",
+        "Color : Black"
+      ],
+      "image": "https://static1.industrybuying.com/products/testing-and-measuring-instruments/temperature-humidity-measuring/infrared-thermometer/TES.INF.37842241_1674048559838.webp",
+      "price": 3680
+    },
+    {
+      "id": 5,
+      "type": "thermometer",
+      "name": "Metrix+ 62 Pro Human Body Infrared Thermometer 5–14 Um",
+      "brand": "Metrix+",
+      "features": [
+        "Brand Name : Metrix+",
+        "Type of Product : Infrared Thermometer",
+        "Repeatability : 1% rdg or 1°C, whichever is greater",
+        "Resolution : 0.1°C",
+        "Emissivity : Adjustable 0.10 ~ 1.00",
+        "Response Time : 0.5s, 95% response"
+      ],
+      "image": "https://static1.industrybuying.com/products/testing-and-measuring-instruments/temperature-humidity-measuring/infrared-thermometer/TES.INF.26058481_1668230008878.webp",
+      "price": 2580
+    }
+  ],
+  "multimeters": [
+    {
+      "id": 1,
+      "type": "multimeters",
+      "name": "Fulcrum 2000PF-200uF Professional Compact Digital Multimeter FC6243L",
+      "brand": "Fulcrum",
+      "features": [
+        "Brand Name : Fulcrum",
+        "Type of Product : Digital Multimeter",
+        "Display : 1999 Maximum",
+        "Resistance Accuracy : ±(1.0%+20)",
+        "Capacitance Accuracy : ±(2.5%+20)",
+        "Capacitance Range : 2000PF-200uF"
+      ],
+      "image": "https://static1.industrybuying.com/products/testing-and-measuring-instruments/electrical-power-testing/multimeters/digital-multimeters/TES.DIG.71612488_1669893888590.webp",
+      "price": 1180
+    },
+    {
+      "id": 2,
+      "type": "multimeters",
+      "name": "Rishabh 40MΩ Dmm 612 Fine Tip Probe Digital Multimeter MM60-612F000000000",
+      "brand": "Rishabh",
+      "features": [
+        "Brand Name : Rishabh",
+        "Type of Product : Digital Multimeter",
+        "Counts : 6600",
+        "Model No : MM60-612F000000000",
+        "Current Measurement : 10A"
+      ],
+      "image": "https://static1.industrybuying.com/products/testing-and-measuring-instruments/electrical-power-testing/multimeters/digital-multimeters/TES.DIG.97512881_1670304062497.webp",
+      "price": 4580
+    },
+    {
+      "id": 3,
+      "type": "multimeters",
+      "name": "Rishabh multi 18S Digital Multimeter (AC Volt 1mV to 1000V)",
+      "brand": "Rishabh",
+      "features": [
+        "Brand Name : Rishabh",
+        "Display : 4¾ digit",
+        "Counts : 31000",
+        "Voltage Range (AC) : 1mV to 1000V",
+        "Voltage Range (DC) : 10µV-1000V",
+        "Current Range (AC) : 1µA-10A"
+      ],
+      "image": "https://static1.industrybuying.com/products/testing-and-measuring-instruments/electrical-power-testing/multimeters/digital-multimeters/ME.EL.DI.205629_1667841138298.webp",
+      "price": 14900
+    },
+    {
+      "id": 4,
+      "type": "multimeters",
+      "name": "Sanwa CD800A Digital Multimeter",
+      "brand": "Sanwa",
+      "features": [
+        "Brand Name : Sanwa",
+        "Type : Digital Multimeter",
+        "Display : 3-3 / 4 Digits",
+        "Counts : 4000",
+        "Voltage Range (AC) : 600 V",
+        "Voltage Range (DC) : 600 V"
+      ],
+      "image": "https://static1.industrybuying.com/products/testing-and-measuring-instruments/electrical-power-testing/multimeters/digital-multimeters/TES.DIG.62649708_1668027779440.webp",
+      "price": 4990
+    },
+    {
+      "id": 5,
+      "type": "multimeters",
+      "name": "DELI DL334301 600V Portable Digital Multimeter",
+      "brand": "DELI",
+      "features": [
+        "Brand Name : DELI",
+        "Type : Digital Multimeter",
+        "Dimensions : 183x91x49.5 mm",
+        "Model No : DL334301",
+        "Display Type : LCD",
+        "Product Sub Type : Portable"
+      ],
+      "image": "https://static1.industrybuying.com/products/testing-and-measuring-instruments/electrical-power-testing/multimeters/digital-multimeters/TES.DIG.46820510_1668332847194.webp",
+      "price": 799
+    },
+    {
+      "id": 6,
+      "type": "multimeters",
+      "name": "GDM 8341 Digit Dual Measurement Multimeter",
+      "brand": "GWINSTEK",
+      "features": [
+        "Brand Name : GWINSTEK",
+        "Type : Digit Dual Measurement Multimeter",
+        "Frequency : 10Hz ~ 500Hz",
+        "Temperature Range : -200 °C ~ -100 °C",
+        "Dimensions : 265 x 107 X 302 mm",
+        "Model No : GDM 8341"
+      ],
+      "image": "https://static1.industrybuying.com/products/testing-and-measuring-instruments/electrical-power-testing/multimeters/digital-multimeters/TES.DIG.87546054_1671022157243.webp",
+      "price": 65800
+    }
+  ],
+  "power_tools": [
+    {
+      "id": 1,
+      "type": "power_tools",
+      "name": "Saws",
+      "image": "https://static3.industrybuying.com/homepage/1641414664PO.SA0.580128.jpg"
+    },
+    {
+      "id": 2,
+      "type": "power_tools",
+      "name": "Miter Saw",
+      "image": "https://static3.industrybuying.com/homepage/1613549369PO.SA0.107550_1566980858466.jpg"
+    },
+    {
+      "id": 3,
+      "type": "power_tools",
+      "name": "Cordless Power Tools",
+      "image": "https://static3.industrybuying.com/homepage/1613549414POW.COR.18810513.jpg"
+    },
+    {
+      "id": 4,
+      "type": "power_tools",
+      "name": "Sander Polisher",
+      "image": "https://static3.industrybuying.com/homepage/16135491734.jpg"
+    }
+  ],
+  "saws": [
+    {
+      "id": 1,
+      "type": "saws",
+      "name": "Omada 7inch Cordless 18V Brushless Motor Cutting Saw Ceramic Tile, Marble, Wood Cutting Machine 2 Batteries & Charger Included",
+      "brand": "Omada",
+      "features": [
+        "Brand Name : Omada",
+        "Type of Product : Saw",
+        "Voltage : 18V",
+        "Color : Black/Blue",
+        "Model No : OMD-0028BL",
+        "Battery Capacity : 4.0Ah"
+      ],
+      "image": "https://static1.industrybuying.com/products/power-tools/saws/POW.SAW.77648393_1671707440775.webp",
+      "price": 12800
+    },
+    {
+      "id": 2,
+      "type": "saws",
+      "name": "GSCPT Heavy Duty 10inch 1650W Miter Saw 4500 rpm Table Top Tile Cutter 1650 W",
+      "brand": "GSCPT",
+      "features": [
+        "Brand Name : GSCPT",
+        "Type of Product : Tile Cutter",
+        "Voltage : 220-240V",
+        "Material : Carbon Steel",
+        "Power Source : Corded Electric",
+        "Power : 1650W"
+      ],
+      "image": "https://static1.industrybuying.com/products/power-tools/saws/POW.MAR.97815990_1673936240645.webp",
+      "price": 10800
+    },
+    {
+      "id": 3,
+      "type": "saws",
+      "name": "Hilti 3500 RPM Cordless Metal Saw SCM 22-A",
+      "brand": "Hilti",
+      "features": [
+        "Brand Name : Hilti",
+        "Type of Product : Metal Saw",
+        "Product Sub Type : Cordless",
+        "Model No : SCM 22-A",
+        "Rpm : 3500",
+        "Blade Diameter : 165 mm"
+      ],
+      "image": "https://static1.industrybuying.com/products/power-tools/saws/POW.SAW.67655313_1671799893781.webp",
+      "price": 39900
+    },
+    {
+      "id": 4,
+      "type": "saws",
+      "name": "VOLTZ VZ-SSA16LV 120W Scroll Saw Machine",
+      "brand": "Voltz",
+      "features": [
+        "Brand Name : Voltz",
+        "Type of Product : Scroll Saw Machine",
+        "Weight : 11.5 Kg",
+        "Color : Orange/Black",
+        "Model No : VZ-SSA16LV",
+        "Height : 16 Inch"
+      ],
+      "image": "https://static1.industrybuying.com/products/power-tools/saws/POW.SAW.77632870_1671596536326.webp",
+      "price": 12800
+    },
+    {
+      "id": 5,
+      "type": "saws",
+      "name": "Ingco COS223589 2200W 3700 rpm Cut Off Saw with 355mm Cutting Disc",
+      "brand": "Ingco",
+      "features": [
+        "Brand Name : Ingco",
+        "Type of Product : Cut Off Saw",
+        "Frequency : 50-60 Hz",
+        "Voltage : 220V-240V",
+        "Color : Black/Yellow",
+        "Model No : COS223589"
+      ],
+      "image": "https://static1.industrybuying.com/products/power-tools/saws/POW.SAW.97738675_1672728651770.webp",
+      "price": 7990
+    },
+    {
+      "id": 6,
+      "type": "saws",
+      "name": "VOLTZ VZ-WTS-254 24V Wood Table Saw Blade Machine",
+      "brand": "Voltz",
+      "features": [
+        "Brand Name : Voltz",
+        "Type of Product : Wood Table Saw Blade Machine",
+        "Voltage : 24V",
+        "Weight : 3.51 Kg",
+        "Color : Black",
+        "Material : Metal,Steel"
+      ],
+      "image": "https://static1.industrybuying.com/products/power-tools/saws/POW.SAW.47632841_1671596510526.webp",
+      "price": 19900
+    }
+  ],
+  "miter_saw": [
+    {
+      "id": 1,
+      "type": "miter_saw",
+      "name": "DEWALT DWS715 1600W 305mm Single Bevel Mitre Saw and 60T TCT blade",
+      "brand": "Dewalt",
+      "features": [
+        "Brand Name : Dewalt",
+        "Type of Product : Mitre Saw",
+        "No Load Speed : 4000 rpm",
+        "Saw Blade Diameter : 305 mm",
+        "Equipment Weight : 19 kg",
+        "Model No : DWS715"
+      ],
+      "image": "https://static1.industrybuying.com/products/power-tools/miter-saw/PO.SA0.107511_1667820052296.webp",
+      "price": 37800
+    },
+    {
+      "id": 2,
+      "type": "miter_saw",
+      "name": "Hitachi - Koki C8FSHE 1050 W Slide Compound Mitre Saw (No Load Speed 5500 rpm)",
+      "brand": "Hitachi",
+      "features": [
+        "Brand Name : Hitachi",
+        "Type of Product : Mitre Saw",
+        "No Load Speed : 5500 rpm",
+        "Saw Blade Diameter : 216 mm",
+        "Accessories : Blade, Dust bag, Vise Assembly, Wrench",
+        "Model No : C8FSHE"
+      ],
+      "image": "https://static1.industrybuying.com/products/power-tools/miter-saw/PO.SA0.107524_1667820070065.webp",
+      "price": 43900
+    },
+    {
+      "id": 3,
+      "type": "miter_saw",
+      "name": "Yato Miter Saw 1800 W YT-82173",
+      "brand": "Yato",
+      "features": [
+        "Brand Name : Yato",
+        "Type of Product : Mitre Saw",
+        "No Load Speed : 5000 RPM",
+        "Frequency : 220-240 V/50Hz",
+        "Power Source : Corded",
+        "Model No : YT-82173"
+      ],
+      "image": "https://static1.industrybuying.com/products/power-tools/miter-saw/POW.MIT.62913371_1668038073564.webp",
+      "price": 43900
+    },
+    {
+      "id": 4,
+      "type": "miter_saw",
+      "name": "Voltz 255B 2200W Professional Miter Saw with Belt spare part (10 Inch)",
+      "brand": "Voltz",
+      "features": [
+        "Brand Name : Voltz",
+        "Type of Product : Mitre Saw",
+        "Weight : 10 Kg",
+        "Blade Diameter : 255mm",
+        "Dimensions : 40 x 30 x 25 cm",
+        "Model No : VZ 255B"
+      ],
+      "image": "https://static1.industrybuying.com/products/power-tools/miter-saw/POW.MIT.62913371_1668038073564.webp",
+      "price": 43900
+    },
+    {
+      "id": 5,
+      "type": "miter_saw",
+      "name": "Dewalt 254mm DW714 1650W OPP Mitre Saw with TCT Blade",
+      "brand": "Dewalt",
+      "features": [
+        "Brand Name : Dewalt",
+        "Type of Product : Mitre Saw",
+        "No Load Speed : 5000 rpm",
+        "Weight : 16 Kg",
+        "Includes : Aluminium Blade, Insert, Extension Clamp, Dust Bag",
+        "Model No : DW714-IN"
+      ],
+      "image": "https://static1.industrybuying.com/products/power-tools/miter-saw/POW.SAW.71223465_1667977724706.webp",
+      "price": 17800
+    },
+    {
+      "id": 6,
+      "type": "miter_saw",
+      "name": "Makita 12\" Dual-Bevel Sliding Compound Miter Saw with Laser LS1219L",
+      "brand": "Makita",
+      "features": [
+        "Brand Name : Makita",
+        "Type of Product : Mitre Saw",
+        "Arbor Size : 1\"",
+        "Blade Diameter : 12\"",
+        "Features : 12\" (305MM) / 1,800W / 3,200 RPM / 29.5Kg / Laser",
+        "Model No : LS1219L"
+      ],
+      "image": "https://static1.industrybuying.com/products/power-tools/miter-saw/POW.MIT.82220087_1668013415802.webp",
+      "price": 79900
+    }
+  ],
+  "cordless_tools": [
+    {
+      "id": 1,
+      "type": "cordless_tools",
+      "name": "Dewalt DCF880M2 18V XR Li ion Cordless Impact Driver with 2x4.0 Batteries (13mm )",
+      "brand": "Dewalt",
+      "features": [
+        "Brand Name : Dewalt",
+        "Type of Product : Compact Impact Wrench",
+        "Battery Voltage : 18V",
+        "Is Consumable : N",
+        "Battery Capacity : 4 Ah",
+        "Model No : DCF880M2-QW"
+      ],
+      "image": "https://static1.industrybuying.com/products/power-tools/cordless-power-tools/cordless-tools/PO.CO.205917_1667841229824.webp",
+      "price": 22900
+    },
+    {
+      "id": 2,
+      "type": "cordless_tools",
+      "name": "Yato 3800 RPM Battery Operated Cordless Circular Saw YT-82810",
+      "brand": "Yato",
+      "features": [
+        "Brand Name : Yato",
+        "Type of Product : Cordless Circular Saw",
+        "Battery Type : LI-ION Battery",
+        "Is Consumable : N",
+        "No Load Speed : 3800 RPM",
+        "Model No : YT-82810"
+      ],
+      "image": "https://static1.industrybuying.com/products/power-tools/cordless-power-tools/cordless-saw/POW.COR.92907262_1668037740707.webp",
+      "price": 7990
+    },
+    {
+      "id": 3,
+      "type": "cordless_tools",
+      "name": "Ingco 8500 RPM Cordless Angle Grinder CAGLI1001",
+      "brand": "Ingco",
+      "features": [
+        "Brand Name : Ingco",
+        "Type of Product : Angle Grinder",
+        "Voltage : 20V",
+        "Disc Diameter : 100mm",
+        "No Load Speed : 8500 RPM",
+        "Model No : CAGLI1001"
+      ],
+      "image": "https://static1.industrybuying.com/products/power-tools/cordless-power-tools/cordless-angle-grinder/POW.COR.75260882_1668167849796.webp",
+      "price": 3980
+    },
+    {
+      "id": 4,
+      "type": "cordless_tools",
+      "name": "Bosch GSR120-Li Cordless Drill Driver (Single Battery)",
+      "brand": "Bosch",
+      "features": [
+        "Brand Name : Bosch",
+        "Type of Product : Cordless Drill/Driver",
+        "Is Consumable : N",
+        "Part No : 0 601 9G8 0F0",
+        "Battery Capacity : 12 V , 1.5 Ah",
+        "Model No : GSR 120-LI"
+      ],
+      "image": "https://static1.industrybuying.com/products/power-tools/cordless-power-tools/cordless-tools/POW.COR.10056805_1667939938299.webp",
+      "price": 6880
+    },
+    {
+      "id": 5,
+      "type": "cordless_tools",
+      "name": "Yato Multi-Purpose Oscillating Tool 500 W YT-82223",
+      "brand": "Yato",
+      "features": [
+        "Brand Name : Yato",
+        "Type of Product : Multi-Purpose Oscillating Tool",
+        "Is Consumable : N",
+        "Power Consumption : 500 W",
+        "Application : Wood and metal",
+        "Model No : YT-82223"
+      ],
+      "image": "https://static1.industrybuying.com/products/power-tools/cordless-power-tools/cordless-tools/POW.COR.32913148_1668038056608.webp",
+      "price": 5680
+    },
+    {
+      "id": 6,
+      "type": "cordless_tools",
+      "name": "Dewalt DCB606 18V/54V Fast Charger",
+      "brand": "Dewalt",
+      "features": [
+        "Brand Name : Dewalt",
+        "Type of Product : Fast Charger",
+        "Is Consumable : N",
+        "Dimensions : 12.5 x 8.5 x 19 cm",
+        "Weight : 699 g",
+        "Model No : DCB606"
+      ],
+      "image": "https://static1.industrybuying.com/products/power-tools/power-tool-accessories/cordless-tool-battery-chargers/POW.COR.52258823_1668060836488.webp",
+      "price": 17800
+    },
+    {
+      "id": 7,
+      "type": "cordless_tools",
+      "name": "Bosch 3.6V GO 2.0 Solo Professional Cordless Screwdriver 360 RPM",
+      "brand": "Bosch",
+      "features": [
+        "Brand Name : Bosch",
+        "Type of Product : Screwdriver",
+        "Is Consumable : N",
+        "Power Source : Cordless",
+        "No Load Speed : 360 RPM",
+        "Model No : Bosch GO 2.0 Solo"
+      ],
+      "image": "https://static1.industrybuying.com/products/power-tools/screw-drivers/POW.SCR.41528740_1667990650091.webp",
+      "price": 4280
+    }
+  ],
+  "sander_polisher": [
+    {
+      "id": 1,
+      "type": "sander_polisher",
+      "name": "Omada 12V Cordless Polisher 5000 rpm (Black/Blue)",
+      "brand": "Omada",
+      "features": [
+        "Brand Name : Omada",
+        "Type of Product : Polisher",
+        "Voltage : 12V",
+        "Color : Black/Blue",
+        "Speed : 2500-5000 rpm",
+        "Model No : OMD-0050"
+      ],
+      "image": "https://static1.industrybuying.com/products/power-tools/sander-polisher/POW.SAN.67648360_1671707427554.webp",
+      "price": 5990
+    },
+    {
+      "id": 2,
+      "type": "sander_polisher",
+      "name": "Generic Ideal ID AOS66 Air Orbital Sander",
+      "brand": "Generic",
+      "features": [
+        "Brand Name : Generic",
+        "Type of Product : Air Orbital Sander",
+        "Pad Size : 6 inch (150mm)",
+        "No Load Speed : 10500 r/min",
+        "Color : Black&Blue",
+        "Model No : ID AOS66"
+      ],
+      "image": "https://static1.industrybuying.com/products/power-tools/sander-polisher/POW.SAN.77730071_1672488095091.webp",
+      "price": 4290
+    },
+    {
+      "id": 3,
+      "type": "sander_polisher",
+      "name": "Pro Tools 500W Orbital Sander 4125-A",
+      "brand": "Pro Tools",
+      "features": [
+        "Brand Name : Pro Tools",
+        "Type of Product : Orbital Sander",
+        "Frequency : 50 Hz",
+        "Voltage : 220-230V",
+        "Speed : 6000-12000 rpm",
+        "Model No : 4125-A"
+      ],
+      "image": "https://static1.industrybuying.com/products/power-tools/sander-polisher/POW.SAN.57817325_1673679737828.webp",
+      "price": 3280
+    },
+    {
+      "id": 4,
+      "type": "sander_polisher",
+      "name": "Kimo Cordless Car Buffer Poliser Wheel Diameter 100mm Variable Speeds 4 Pads",
+      "brand": "Kimo",
+      "features": [
+        "Brand Name : Kimo",
+        "Type of Product : Polisher",
+        "Color : Black/Green",
+        "Voltage : 12V",
+        "Speed : 0-3000rpm",
+        "Model No : OMD-730-12V"
+      ],
+      "image": "https://static1.industrybuying.com/products/power-tools/sander-polisher/POW.SAN.27648370_1671707391059.webp",
+      "price": 6990
+    },
+    {
+      "id": 5,
+      "type": "sander_polisher",
+      "name": "Ballorex 1200Watt 180mm/7 inch Electric Car Polisher with Wool Buffing Pad Adjustable Speed Waxing Buffing Sanding Machine (Assorted)",
+      "brand": "Ballorex",
+      "features": [
+        "Brand Name : Ballorex",
+        "Type of Product : Electric Car Polisher",
+        "Color : Assorted",
+        "Material : Rubber/Plastic",
+        "Power : 1200W",
+        "Model No : KS0180P"
+      ],
+      "image": "https://static1.industrybuying.com/products/power-tools/sander-polisher/POW.SAN.77574546_1670931887657.webp",
+      "price": 3380
+    },
+    {
+      "id": 6,
+      "type": "sander_polisher",
+      "name": "Flymax 1400W Electric Polisher 3000 Rpm",
+      "brand": "Flymax",
+      "features": [
+        "Brand Name : Flymax",
+        "Type of Product : Electric Polisher",
+        "Voltage : 220 - 240V",
+        "Material : Rubber/Plastic",
+        "Weight : 3 Kg",
+        "Speed : 3000 Rpm"
+      ],
+      "image": "https://static1.industrybuying.com/products/power-tools/sander-polisher/POW.SAN.77692552_1672819248059.webp",
+      "price": 3790
+    }
+  ]
 }
