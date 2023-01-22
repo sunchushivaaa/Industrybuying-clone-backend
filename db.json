@@ -1,4 +1,7 @@
 {
+  "information": {
+    "mode": false
+  },
   "best_sellers": [
     {
       "id": 1,
@@ -165,18 +168,18 @@
     {
       "id": 3,
       "type": "new_arrivals",
-      "name": "BOSCH GWS 600 professional Angle Grinder for Metal Working (with Brush Motor & Protective",
-      "brand": "Bosch",
+      "name": "Fulcrum 2 Ton 3Mtr Chain Pulley Block 2T3M",
+      "brand": "Fulcrum",
       "features": [
-        "Brand Name : Bosch",
-        "Type of Product : Angle Grinder",
-        "Frequency : 50-60 Hz",
-        "Weight : 1.8 kg",
-        "Switch Type : Toggle",
-        "Color : Blue & Black"
+        "Brand Name : Fulcrum",
+        "Type of Product : Chain Pulley Block",
+        "Capacity : 2 Ton",
+        "Model No : 2T3M",
+        "Series : Economic",
+        "Load Chain Diameter : 6 mm"
       ],
-      "image": "https://static1.industrybuying.com/products/power-tools/angle-grinders/PO.AN.731400_1667895577501.webp",
-      "price": 2880
+      "image": "https://static1.industrybuying.com/products/material-handling-and-packaging/chain-pulley-blocks-and-accessories/chain-pulley-block/MAT.CHA.91518751_1667990374012.webp",
+      "price": 3980
     },
     {
       "id": 4,
